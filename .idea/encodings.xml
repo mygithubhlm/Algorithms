@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BinaryHeap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Numbers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SelectionSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab2/Calculate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab2/FromPostfixToInfix.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab2/GenerateExpress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab2/MyQueue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab5/CardsDivision.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab5/CoinsChange.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/lab5/DigitsComb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lab7/KMP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/rabin_karp.java" charset="GBK" />
+  </component>
+</project>
